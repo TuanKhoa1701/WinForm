@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BKEU\\TTNT\\ExportFiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|D:\\BKEU\\TTNT\\ExportFiles\\barcodescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|solutionrelative:barcodescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|d:\\bkeu\\ttnt\\exportfiles\\danhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|solutionrelative:danhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|d:\\bkeu\\ttnt\\exportfiles\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|solutionrelative:taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|D:\\BKEU\\TTNT\\ExportFiles\\form\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|solutionrelative:form\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|D:\\BKEU\\TTNT\\ExportFiles\\form\u0111\u0103ngnh\u1EADp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|solutionrelative:form\u0111\u0103ngnh\u1EADp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|d:\\bkeu\\ttnt\\exportfiles\\form\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|solutionrelative:form\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|D:\\BKEU\\TTNT\\ExportFiles\\barcodescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{966A694B-2F9A-41E6-AFDF-BB1ABBA2F855}|Barcodescanner.csproj|solutionrelative:barcodescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhSachTaiKhoan.cs",
+              "DocumentMoniker": "D:\\BKEU\\TTNT\\ExportFiles\\DanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DanhSachTaiKhoan.cs",
+              "ToolTip": "D:\\BKEU\\TTNT\\ExportFiles\\DanhSachTaiKhoan.cs",
+              "RelativeToolTip": "DanhSachTaiKhoan.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:44:57.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form\u0110\u0103ngNh\u1EADp.cs",
+              "DocumentMoniker": "D:\\BKEU\\TTNT\\ExportFiles\\Form\u0110\u0103ngNh\u1EADp.cs",
+              "RelativeDocumentMoniker": "Form\u0110\u0103ngNh\u1EADp.cs",
+              "ToolTip": "D:\\BKEU\\TTNT\\ExportFiles\\Form\u0110\u0103ngNh\u1EADp.cs",
+              "RelativeToolTip": "Form\u0110\u0103ngNh\u1EADp.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:46:16.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Barcodescanner.cs",
+              "DocumentMoniker": "D:\\BKEU\\TTNT\\ExportFiles\\Barcodescanner.cs",
+              "RelativeDocumentMoniker": "Barcodescanner.cs",
+              "ToolTip": "D:\\BKEU\\TTNT\\ExportFiles\\Barcodescanner.cs",
+              "RelativeToolTip": "Barcodescanner.cs",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAcwKkBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:16:07.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\BKEU\\TTNT\\ExportFiles\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "TaiKhoan.cs",
+              "ToolTip": "D:\\BKEU\\TTNT\\ExportFiles\\TaiKhoan.cs",
+              "RelativeToolTip": "TaiKhoan.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T17:44:31.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "DocumentMoniker": "D:\\BKEU\\TTNT\\ExportFiles\\Form\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "RelativeDocumentMoniker": "Form\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "ToolTip": "D:\\BKEU\\TTNT\\ExportFiles\\Form\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "RelativeToolTip": "Form\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T17:48:59.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form\u0110\u0103ngNh\u1EADp.cs [Design]",
+              "DocumentMoniker": "D:\\BKEU\\TTNT\\ExportFiles\\Form\u0110\u0103ngNh\u1EADp.cs",
+              "RelativeDocumentMoniker": "Form\u0110\u0103ngNh\u1EADp.cs",
+              "ToolTip": "D:\\BKEU\\TTNT\\ExportFiles\\Form\u0110\u0103ngNh\u1EADp.cs [Design]",
+              "RelativeToolTip": "Form\u0110\u0103ngNh\u1EADp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T02:48:51.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Barcodescanner.cs [Design]",
+              "DocumentMoniker": "D:\\BKEU\\TTNT\\ExportFiles\\Barcodescanner.cs",
+              "RelativeDocumentMoniker": "Barcodescanner.cs",
+              "ToolTip": "D:\\BKEU\\TTNT\\ExportFiles\\Barcodescanner.cs [Design]",
+              "RelativeToolTip": "Barcodescanner.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:26:14Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
